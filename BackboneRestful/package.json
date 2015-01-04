@@ -1,0 +1,13 @@
+{
+  "name": "express",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.8.1",
+    "express": "~4.9.0",
+    "mongojs": "^0.18.0"
+  }
+}
